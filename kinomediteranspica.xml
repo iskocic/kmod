@@ -1,0 +1,20 @@
+<VAST version="2.0">
+  <Ad id="static">
+    <InLine>
+      <AdSystem>Static VAST Template</AdSystem>
+      <AdTitle>Kino Mediteran</AdTitle>
+      <Creatives>
+        <Creative>
+          <Linear>
+            <Duration>00:00:23</Duration>
+            <MediaFiles>
+              <MediaFile type="video/mp4" bitrate="2500" width="1024" height="576">
+               https://shift72d-286.akamaized.net/dd102c89-2654-464b-b771-81c10d99119b/km_trailer_trailer_kb.mp4
+              </MediaFile>
+            </MediaFiles>
+           </Linear>
+        </Creative>
+      </Creatives>
+    </InLine>
+  </Ad>
+</VAST>
